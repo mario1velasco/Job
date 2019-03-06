@@ -11,3 +11,7 @@ body{
   background-color: black;
   color: white;
 }
+
+h1, h3 {
+  font-family: "Lucida Console", Monaco, monospace;
+}
